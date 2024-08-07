@@ -1,0 +1,7 @@
+1)first Step:- git add .
+
+2)git commit -m "hello world code"
+
+3)git remote add origin https://github.com/Yogesh5454573/code_java.git
+
+4)git push -u origin main
